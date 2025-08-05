@@ -1,0 +1,15 @@
+From: support123@allegro.com  
+To: posaram123@gmail.com 
+Subject: 🚨 Action Required: Your Allegro Account is Suspended
+
+Dear Allegro User,
+
+We have detected suspicious activity in your Allegro account.  
+Please verify your identity by clicking the link below:
+
+🔗 https://allegro-login-update.vercel.app
+
+If you do not verify within 24 hours, your account will be suspended permanently.
+
+Thank you,  
+Allegro Security Team
